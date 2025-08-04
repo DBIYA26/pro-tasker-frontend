@@ -33,9 +33,6 @@ frontend/
 ├── .env.production
 ├── vite.config.js
 
-yaml
-Copy
-Edit
 
 ---
 
@@ -55,9 +52,6 @@ Create a `.env.production` file:
 
 VITE_API_URL=https://https://pro-tasker-backend-1-mb0s.onrender.com
 
-yaml
-Copy
-Edit
 
 ---
 
@@ -96,8 +90,6 @@ git push origin main
 If the push fails:
 
 bash
-Copy
-Edit
 git pull --rebase
 git push --force
 🧠 Author Notes
