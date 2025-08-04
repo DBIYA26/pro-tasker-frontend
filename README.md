@@ -1,5 +1,6 @@
 # 🌐 Pro-Tasker Frontend
-before anyhting else i had all my code well prepareed and when it crashed or just simple typos or routes didnt a line i started over which i shouldnt have done had do all my code over the weekend and i got help aswell and this where im at thusfar. 
+Before anything else  I want to say that I originally had all my code well-prepared. But when it crashed or things like typos or broken routes caused issues, I restarted everything from scratch, which I now realize I shouldn’t have done. I ended up redoing the entire codebase over the weekend, and I did get some help along the way. This is where I’m at so far.
+
 
 (help by Yusuf,Reagan,David,Rico,Manasa,Menro)
 {made alot of repos}
