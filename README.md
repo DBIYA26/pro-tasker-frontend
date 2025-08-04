@@ -48,7 +48,8 @@ frontend/
 - 🔄 **Protected Routes with Context**
 - 💡 **Custom Axios Clients for Backend Communication**
 
-- For future enhancements, I plan to improve my frontend by making sure all pages and routes are properly handled and no pages return a “not found” error. I also want to apply styles and visual cues for task due dates, as well as complete the functionality of my task adder component.
+
+For future enhancements, I plan to improve my frontend by making sure all pages and routes are properly handled and no pages return a “not found” error. I also want to apply styles and visual cues for task due dates, as well as complete the functionality of my task adder component.
 
 
 
