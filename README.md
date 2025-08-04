@@ -98,3 +98,7 @@ git pull --rebase
 git push --force
 🧠 Author Notes
 This frontend was built by Artis Watson as part of the final capstone for a full-stack MERN bootcamp. It demonstrates real-world architecture, client-server communication, and secure React app development.
+
+
+For future enhancements, I plan to improve my frontend by making sure all pages and routes are properly handled and no pages return a “not found” error. I also want to apply styles and visual cues for task due dates, as well as complete the functionality of my task adder component.
+
