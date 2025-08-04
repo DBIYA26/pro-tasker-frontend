@@ -5,7 +5,7 @@ This is the **frontend** of **Pro-Tasker**, a modern project management applicat
 
 ---
 
-## ⚙️ Tech Stack
+## ⚙️ Tech Stack = The full set of technologies used to build and run a software application.
 
 - **React**
 - **Vite**
