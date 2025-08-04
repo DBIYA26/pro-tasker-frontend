@@ -1,5 +1,5 @@
 # 🌐 Pro-Tasker Frontend
-
+(help by Yusuf,Reagan,David,Rico,Manasa,Menro)
 This is the **frontend** of **Pro-Tasker**, a modern project management application built with the **MERN stack**. This React-based UI connects to the Pro-Tasker backend API and supports features like user authentication, project dashboards, task updates, and role-based access.
 
 ---
