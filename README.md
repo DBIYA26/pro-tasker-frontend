@@ -1,5 +1,5 @@
 # 🌐 Pro-Tasker Frontend
-befroe anyhting else i had all my code well prepareed and when it crashed or just simple typos or routes didnt a line i started over which i shouldnt have done had do all my code over the weekend and i got help aswell and this where im at thusfar. 
+before anyhting else i had all my code well prepareed and when it crashed or just simple typos or routes didnt a line i started over which i shouldnt have done had do all my code over the weekend and i got help aswell and this where im at thusfar. 
 
 (help by Yusuf,Reagan,David,Rico,Manasa,Menro)
 {made alot of repos}
